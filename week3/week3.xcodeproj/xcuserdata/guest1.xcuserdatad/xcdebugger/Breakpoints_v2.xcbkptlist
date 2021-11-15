@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2BCE293-2740-4A42-B8C2-65D9CFBB7300"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "week3/DelegatePracticeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DelegatePracticeVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832 - b42616dbce2d3e94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week3.DelegatePracticeVC.partImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/seondal/SOPT-29th-IOS-Practice/week3/week3/DelegatePracticeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832 - 3e653abf3ee152a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week3.DelegatePracticeVC.partImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/seondal/SOPT-29th-IOS-Practice/week3/week3/DelegatePracticeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832 - 5c88c5b0109b184a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week3.DelegatePracticeVC.partImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/seondal/SOPT-29th-IOS-Practice/week3/week3/DelegatePracticeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832 - ccf57f5feec93e66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week3.DelegatePracticeVC.partImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/seondal/SOPT-29th-IOS-Practice/week3/week3/DelegatePracticeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832 - ade1d0d7ee93f075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week3.DelegatePracticeVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; week3.DelegatePracticeVC"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/seondal/SOPT-29th-IOS-Practice/week3/week3/DelegatePracticeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "FB8A4436-EA03-4B86-AF8B-F534BC5C4832 - b7ce490d9e2355b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "week3.DelegatePracticeVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;week3.DelegatePracticeVC&gt;"
+                  moduleName = "week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guest1/Desktop/seondal/SOPT-29th-IOS-Practice/week3/week3/DelegatePracticeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
