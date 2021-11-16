@@ -10,6 +10,7 @@ import UIKit
 class RankingVC: UIViewController {
 
     @IBOutlet weak var rankTableView: UITableView!
+    @IBOutlet weak var rankCollectionView: UICollectionView!
     
     //1. 테이블뷰셀에 넣을 앱 데이터 리스트 프로퍼티를 빈 배열로 선언
     var appContentList : [AppContentData] = []
@@ -18,8 +19,12 @@ class RankingVC: UIViewController {
         super.viewDidLoad()
         initAppContentList()    //3.함수 호출
         registerXib()
+        
         rankTableView.dataSource = self
         rankTableView.delegate = self
+        
+        rankCollectionView.dataSource = self
+        rankCollectionView.delegate = self
     }
     
     func registerXib() {

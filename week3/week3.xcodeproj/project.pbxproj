@@ -20,6 +20,7 @@
 		9A2D568C27432A3E001B264F /* RankingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2D568A27432A3E001B264F /* RankingTableViewCell.swift */; };
 		9A2D568D27432A3E001B264F /* RankingTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A2D568B27432A3E001B264F /* RankingTableViewCell.xib */; };
 		9A2D568F27432E73001B264F /* AppContentDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2D568E27432E73001B264F /* AppContentDataModel.swift */; };
+		9A2D56912743981E001B264F /* RankCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2D56902743981E001B264F /* RankCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		9A2D568A27432A3E001B264F /* RankingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankingTableViewCell.swift; sourceTree = "<group>"; };
 		9A2D568B27432A3E001B264F /* RankingTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RankingTableViewCell.xib; sourceTree = "<group>"; };
 		9A2D568E27432E73001B264F /* AppContentDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppContentDataModel.swift; sourceTree = "<group>"; };
+		9A2D56902743981E001B264F /* RankCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				9A2D5679273BE43B001B264F /* LaunchScreen.storyboard */,
 				9A2D567C273BE43B001B264F /* Info.plist */,
 				9A2D568627432932001B264F /* Practice.storyboard */,
+				9A2D56902743981E001B264F /* RankCollectionViewCell.swift */,
 				9A2D568A27432A3E001B264F /* RankingTableViewCell.swift */,
 				9A2D568E27432E73001B264F /* AppContentDataModel.swift */,
 				9A2D568B27432A3E001B264F /* RankingTableViewCell.xib */,
@@ -163,6 +166,7 @@
 				9A2D5673273BE43A001B264F /* ViewController.swift in Sources */,
 				9A2D566F273BE43A001B264F /* AppDelegate.swift in Sources */,
 				9A2D5683273BEE58001B264F /* DelegatePracticeVC.swift in Sources */,
+				9A2D56912743981E001B264F /* RankCollectionViewCell.swift in Sources */,
 				9A2D568F27432E73001B264F /* AppContentDataModel.swift in Sources */,
 				9A2D5689274329C6001B264F /* RankingVC.swift in Sources */,
 				9A2D568C27432A3E001B264F /* RankingTableViewCell.swift in Sources */,
